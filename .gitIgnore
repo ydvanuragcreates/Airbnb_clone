@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.production
+.env.development
+
+# Credentials
+*.json
+
+# NPM dependency lock file
+package-lock.json
+client/package-lock.json
